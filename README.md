@@ -1,6 +1,6 @@
 # starship
-![Lint](https://github.com/Anmol1696/starship/actions/workflows/lint-check.yaml/badge.svg)
-![Deploy](https://github.com/Anmol1696/starship/actions/workflows/release.yaml/badge.svg)
+![Lint](https://github.com/mkRuby009/starship/actions/workflows/lint-check.yaml/badge.svg)
+![Deploy](https://github.com/mkRuby009/starship/actions/workflows/release.yaml/badge.svg)
 
 Universal interchain development environment in k8s. The vision of this project
 is to have a single easy to use developer environment with full testing support
@@ -112,7 +112,7 @@ can perform
 ## Using helm chart
 Inorder to use the helm chart externally without this repo.
 ```bash
-helm repo add starship https://anmol1696.github.io/starship
+helm repo add starship https://mkRuby009.github.io/starship
 helm repo update
 
 helm search repo starship/devnet
