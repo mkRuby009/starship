@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  devnet:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2023-02-10T19:17:49.509132576Z"
+    description: A Helm chart for Kubernetes
+    digest: 8358aca3ffb6c612ff459dc08bca34eb953bdfe0e81fe440c44764a4ab71fafb
+    maintainers:
+    - name: Starship
+      url: https://github.com/mkRuby009/starship
+    name: devnet
+    type: application
+    urls:
+    - https://github.com/mkRuby009/starship/releases/download/devnet-0.1.15/devnet-0.1.15.tgz
+    version: 0.1.15
+generated: "2023-02-10T19:17:49.509138376Z"
